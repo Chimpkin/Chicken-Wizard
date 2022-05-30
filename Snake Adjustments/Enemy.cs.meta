@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 625b1ef7c87a69f4d892198e49a587f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 7822645922182155641, guid: 2817830cb0491b246938007293cb46c4, type: 3}
+  - shootPos: {instanceID: 0}
+  - snake: {fileID: 681601763768922478, guid: 63711fab2955f744c9ba18ec24626ef8, type: 3}
+  - projectile: {fileID: 156215057143555679, guid: a77e8ef4e40b9f344a1d0ef661415ba2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
